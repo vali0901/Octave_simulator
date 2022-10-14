@@ -1,4 +1,4 @@
-# My_octave
+# Octave_simulator
 
 This is a project in which i practiced how a pointer and memory
 allocation works, creating a program "similar to" Octave. It basically does
