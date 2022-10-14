@@ -1,6 +1,6 @@
 # My_octave
 
-This is an university project in which i practiced how a pointer and memory
+This is a project in which i practiced how a pointer and memory
 allocation works, creating a program "similar to" Octave. It basically does
 a few matrix operation like multiplying, transposition, resizing, sorting based
 on fixed criteria, loading or deleting a matrix in the memory. So, i am using a
